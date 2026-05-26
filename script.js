@@ -19,9 +19,12 @@ const roles = [
   "Spring Boot",
   "REST APIs",
   "Java Backend",
-  "MongoDB",
+  "Real-Time Monitoring",
   "MySQL",
+  "MongoDB",
   "Full Stack Development",
+  "AI/ML Applications",
+  "IoT Systems",
 ];
 
 let roleIndex = 0;
